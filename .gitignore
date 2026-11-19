@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Local data & binaries
+.ffmpeg/
+.yt-dlp/
+downloads/
+progress.json
+progress.*.json
+
+# Environments
+.env
+.venv
+env/
+venv/
